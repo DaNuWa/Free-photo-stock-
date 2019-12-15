@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Free-photo-stock-/static/css/main.303f0638.chunk.css",
+    "main.js": "/Free-photo-stock-/static/js/main.93cecfdd.chunk.js",
+    "main.js.map": "/Free-photo-stock-/static/js/main.93cecfdd.chunk.js.map",
+    "runtime-main.js": "/Free-photo-stock-/static/js/runtime-main.adfd8867.js",
+    "runtime-main.js.map": "/Free-photo-stock-/static/js/runtime-main.adfd8867.js.map",
+    "static/js/2.afbf4acf.chunk.js": "/Free-photo-stock-/static/js/2.afbf4acf.chunk.js",
+    "static/js/2.afbf4acf.chunk.js.map": "/Free-photo-stock-/static/js/2.afbf4acf.chunk.js.map",
+    "index.html": "/Free-photo-stock-/index.html",
+    "precache-manifest.a7efdef82754c6cc82c21fc9a28c53da.js": "/Free-photo-stock-/precache-manifest.a7efdef82754c6cc82c21fc9a28c53da.js",
+    "service-worker.js": "/Free-photo-stock-/service-worker.js",
+    "static/css/main.303f0638.chunk.css.map": "/Free-photo-stock-/static/css/main.303f0638.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adfd8867.js",
+    "static/js/2.afbf4acf.chunk.js",
+    "static/css/main.303f0638.chunk.css",
+    "static/js/main.93cecfdd.chunk.js"
+  ]
+}
